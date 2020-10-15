@@ -18,6 +18,7 @@ $ opam init
 3. 权限问题
 
 ### 通用解决方法（不完美）
+MacOS 10.14/10.15 上测试有效
 #### 1. Backup ~/.opam directory
 
 ##### How to go to home directioy? 
